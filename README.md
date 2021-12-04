@@ -1,0 +1,1 @@
+Files, created during studying Head First Go book.
